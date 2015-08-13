@@ -66,7 +66,7 @@ C++ logging library that is based on single header file. Why another logging lib
  * STL, Qt and extendable logging (Your own class' logging)
 
 ... and  list goes on! It is complete library wrapped into single header file that you can use in any C++ application.
-<pre><a href="#easylogging">Goto Top</a></pre>
+
 ### Getting Started
 #### Downloading Library
 Current stable URL is always http://www.icplusplus.com/tools/easylogging/easyloggingpp.zip
